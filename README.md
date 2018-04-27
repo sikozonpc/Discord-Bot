@@ -8,11 +8,10 @@ The Bot will not work if you dont follow  the tutorial and change to your bot to
 https://discordapp.com/developers/applications/me/create
 
 # Commands 
-"!?"              for tututru
-"!okarin"         secret command 
-"!tuturu"         enters voice chat and says "Tuuutuuruuuu"
+"!?"              for tututru \n
 
-a
-a
-a
-a
+"!okarin"         secret command \n
+
+"!tuturu"         enters voice chat and says "Tuuutuuruuuu"\n
+
+
