@@ -1,3 +1,6 @@
+//
+// GET UR BOT SETUP ON THE DISCORD OFFICAL TUTORIAL AND CHANGE THE TOKEN ON THE SETTINGS BEFORE RUNNING
+//
 const botSettings = require("./settings.json");
 const Discord = require("discord.js");
 
