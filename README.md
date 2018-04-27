@@ -11,3 +11,8 @@ https://discordapp.com/developers/applications/me/create
 "!?"              for tututru
 "!okarin"         secret command 
 "!tuturu"         enters voice chat and says "Tuuutuuruuuu"
+
+a
+a
+a
+a
